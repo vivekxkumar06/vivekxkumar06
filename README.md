@@ -12,7 +12,7 @@
   </ul>
 </div>
 
-**Front-End Developer** · HTML · CSS · JavaScript · React - Next.js
+**Front-End Developer** · HTML · CSS · JavaScript · React - Next.js - Typescript 
 
 
 Hi, I'm Vivek kumar — a student from India who started with the basics and isn't planning to stop anytime soon. Currently learning web development one language at a time, with a lot more still on the list.
